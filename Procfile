@@ -1,1 +1,1 @@
-worker: python ayan.py
+worker: python lunarah.py
